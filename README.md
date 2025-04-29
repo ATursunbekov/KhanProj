@@ -70,4 +70,6 @@
 ## 🔎 Swagger документация
 
 После запуска проекта Swagger доступен по адресу:
+http://localhost:8080/swagger/index.html#/Person/post_person_create
+
 
